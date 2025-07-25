@@ -1,4 +1,4 @@
-<h1>Hi, I'm Roger! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/roger-b-deleon3/">Cybersecurity Professional</a>
+<h1>Hi, I'm Roger! <br/><a href="https://github.com/rogerbdeleon3">Programmer</a>, <a href="https://www.linkedin.com/in/roger-b-deleon3/">Cybersecurity Professional</a>
 
 <h2> 🤳 Connect with me:</h2>
 
